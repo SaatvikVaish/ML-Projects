@@ -1,5 +1,3 @@
-readme_content = """# Helmet Detection and Number Plate Recognition using YOLOv5 and FastAPI 🚀  
-
 ## Introduction  
 This project detects **helmet violations** by identifying two-wheelers where the driver is not wearing a helmet.   
 
@@ -14,4 +12,16 @@ This project detects **helmet violations** by identifying two-wheelers where the
 ✅ **Helmet Detection** – Identifies whether a person on a bike is wearing a helmet  
 ✅ **Real-time Processing** – Optimized for real-time inference  
 ✅ **Scalability** – Can be extended for other traffic rule violations  
+
+## Results & Performance
+
+| Metric               | Value  |
+|----------------------|--------|
+| **mAP@50**          | 85.6%  |
+| **Helmet Precision** | 78.0%  |
+| **No-Helmet Precision** | 88.6%  |
+| **Inference Speed**  | 8.1ms  |
+
+💡 *Further improvements can be made using data augmentation, hyperparameter tuning, and larger models like YOLOv5m/l.*
+
 
