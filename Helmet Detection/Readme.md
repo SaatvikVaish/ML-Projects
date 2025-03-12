@@ -1,5 +1,5 @@
 ## Introduction  
-This project detects **helmet violations** by identifying two-wheelers where the driver is not wearing a helmet.   
+This project detects **helmet violations** by identifying two-wheelers where the driver is not wearing a helmet .   
 
 ## Technologies Used  
 - **Object Detection**: YOLOv5  
